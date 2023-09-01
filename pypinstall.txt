@@ -1,0 +1,1 @@
+pyinstaller -F -w  moon_kill.py
